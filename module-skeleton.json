@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-orders-flutter",
+  "capabilityKey": "liberusoftware/module-billing-orders",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_orders_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/orders.md",
+  "presentationPlan": "projects/billing/flutter/orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
